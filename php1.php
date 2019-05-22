@@ -1,2 +1,1 @@
-<?php
-phpinfo();
+new file
