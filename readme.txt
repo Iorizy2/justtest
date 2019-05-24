@@ -1,2 +1,2 @@
-git one
+git is distribute
 git is free
