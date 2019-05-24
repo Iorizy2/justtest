@@ -1,2 +1,2 @@
 git is distribute
-git is free
+git under GPL
